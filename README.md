@@ -34,7 +34,7 @@
    pip install -r requirements.txt
    ```
 
-   > 加入按照时有什么数据包不成功，建议新建一个conda环境
+   > 加入依赖时有什么数据包不成功，建议新建一个conda环境
    ```bash
    conda create -n [env-name] [python-version]
    conda activate [env-name]
@@ -58,7 +58,7 @@
 
 
 ## 大致最终文件结构
-base  
+cv_exp5 
 ├── evaluate  
 ├── Plant_leave_diseases_dataset_with_augmentation  
 ├── saved_models  
