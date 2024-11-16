@@ -31,7 +31,7 @@ YOLO 详细参考 [Ultralytics](https://github.com/ultralytics/yolov5)。
    pip install -r requirements.txt
    ```
 
-   -加入按照时有什么数据包不成功，建议新建一个conda环境
+   > 加入按照时有什么数据包不成功，建议新建一个conda环境
    ```bash
    conda create -n [env-name] [python-version]
    conda activate [env-name]
