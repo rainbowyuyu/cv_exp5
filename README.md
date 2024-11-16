@@ -1,7 +1,7 @@
 # cv_exp5  
 计算机视觉实验5  
 
-![logo](logo.png)
+![logo](display.png)
 
 ## 单文档一键化实验操作，分步调试实现  
 
