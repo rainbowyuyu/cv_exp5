@@ -30,8 +30,15 @@ YOLO 详细参考 [Ultralytics](https://github.com/ultralytics/yolov5)。
    ```bash
    pip install -r requirements.txt
    ```
+
+   -加入按照时有什么数据包不成功，建议新建一个conda环境
+   ```bash
+   conda create -n [env-name] [python-version]
+   conda activate [env-name]
+   pip install -r requirements.txt
+   ```
    
-2. 注意事项：
+3. 注意事项：
 - 根据实际情况调整 CUDA 和 cuDNN 的版本。
 - 分步操作时，需要调整 mode 参数以及文件路径
 
