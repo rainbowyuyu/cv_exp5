@@ -26,7 +26,8 @@ YOLO 详细参考 [Ultralytics](https://github.com/ultralytics/yolov5)。
 
 ## 详细使用方法  
 
-1. 安装依赖：  
+1. 安装依赖：
+   > 直接requirements里的依赖
    ```bash
    pip install -r requirements.txt
    ```
